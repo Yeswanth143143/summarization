@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Summarization-Tool
+Version: 0.0.1
+Author: Yeswanth Chowdary
+Author-email: bgotti@hawk.iit.edu
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python_dotenv
+Requires-Dist: PyPDF2
