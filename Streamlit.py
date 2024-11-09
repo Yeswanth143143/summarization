@@ -8,7 +8,7 @@ from langchain_core.language_models.llms import LLM
 import tiktoken
 import streamlit as st
 
-from src.summarize.summarization.summarization import sumarize
+from src.summarize.summarization import sumarize
 
 st.set_page_config(page_title="Text Summarization app")
 st.title("Summarization Tool")
